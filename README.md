@@ -1,4 +1,4 @@
-### Hi there 👋
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Mustafa%20Yaylali&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
 
 <!--
 **mustafayaylalii/mustafayaylalii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=mustafayaylalii&show_icons=true&theme=radical)
